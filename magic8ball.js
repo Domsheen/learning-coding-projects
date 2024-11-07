@@ -62,3 +62,5 @@ How to Run the Magic 8-Ball Program
    - Type the following command in the terminal:
      node magic8ball.js
 */
+
+//i am adding more notes
